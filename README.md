@@ -1,0 +1,1 @@
+# arm_template_for_vm
